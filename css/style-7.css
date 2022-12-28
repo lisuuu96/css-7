@@ -1,0 +1,4 @@
+p{color: olive;}
+h1{color: aqua;}
+h3{color:blueviolet}
+h1+h3{color: coral;}
